@@ -1,0 +1,7 @@
+# AdvoCal Admin Panel — Environment Variables
+# Copy this file to .env and fill in your values
+# NEVER commit .env to Git
+
+# Supabase project credentials (get from Supabase Dashboard → Project Settings → API)
+VITE_SUPABASE_URL=https://your-project-ref.supabase.co
+VITE_SUPABASE_ANON_KEY=your-anon-key-here
